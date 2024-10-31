@@ -9,10 +9,9 @@ description: Grupo 17
 
 <img align="left" width="100" height="100" src="https://picsum.photos/100/100">
 
-Oque 
+<p>Oque</p> 
 
 ---
-
 
 ## Exercícios
 
