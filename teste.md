@@ -5,7 +5,7 @@ description: Grupo 17
 
 # Circuítos para Operações Lógicas
 
-## Advanced Formatting tips
+!!!Advanced Formatting tips
 
 <div style="display: flex; align-items: flex-start;">
     <div style="margin-right: 20px; display: flex; flex-direction: column; align-items: flex-start;">
