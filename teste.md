@@ -10,6 +10,7 @@ description: Grupo 17
 <p>Oque</p>
 
 ---
+<br clear="left"/>
 
 ## Exercícios
 
