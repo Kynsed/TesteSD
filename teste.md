@@ -64,37 +64,21 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 <div style="display: flex;">
     <div style="margin-left: 20px;">
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/61362703-a2e5-4e71-b87b-4756670b1ce8">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/6b576839-7603-4fc9-af4f-b8215b041c49">
         </div>
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/9841bc08-ed74-4bdb-b838-cbc684a3dd3a">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/5fbb3cb0-e706-4692-a1c7-3e52783a2b67">
         </div>
     </div>
     <div>
-        <p>A porta AND, mostrada na Figura, gera uma saída VERDADEIRA, Q, somente se ambas as entradas A e B forem VERDADEIROS; caso contrário, a saída é FALSA. A convenção para listar as entradas é 00, 01, 10, 11, como na contagem binária. A equação booleana para uma porta AND pode ser escrita como Q = A•B, Q = AB, ou Q = A ∩ B, com o símbolo ∩ sendo lido como "intersecção". Você também pode associar essa porta lógica com a operação usual de multiplicação, de maneira a facilitar sua compreensão acerca do resultado esperado na saída para diferentes entradas.</p>
+        <p>A porta OR, ilustrada na Figura (inserir figura), gera uma saída VERDADEIRA, Q, se A, B ou ambos forem VERDADEIROS. A equação booleana para OR é Y = A ∪ B. O símbolo ∪ é lido como "união", e a expressão Q = A + B significa "Q é igual a A ou B".</p>
     </div>
 </div>
 
 <br clear="left"/>
 
 ## Exercícios
-# Tabela Verdade da Porta OR
 
-|  A  |  B  |  S  |
-|-----|-----|-----|
-|  0  |  0  |  0  |
-|  0  |  1  |  1  |
-|  1  |  0  |  1  |
-|  1  |  1  |  1  |
-
-# Tabela Verdade da Porta NOR
-
-|  A  |  B  |  S  |
-|-----|-----|-----|
-|  0  |  0  |  1  |
-|  0  |  1  |  0  |
-|  1  |  0  |  0  |
-|  1  |  1  |  0  |
 
 
 :::note TODO
