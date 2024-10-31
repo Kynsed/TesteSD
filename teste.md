@@ -42,6 +42,39 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 
 ---
 
+# Tabela Verdade da Porta NOT
+
+|  A  |  S  |
+|-----|-----|
+|  0  |  1  |
+|  1  |  0  |
+
+# Tabela Verdade da Porta NAND
+
+|  A  |  B  |  S  |
+|-----|-----|-----|
+|  0  |  0  |  1  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  0  |
+
+# Tabela Verdade da Porta NOR
+
+|  A  |  B  |  S  |
+|-----|-----|-----|
+|  0  |  0  |  1  |
+|  0  |  1  |  0  |
+|  1  |  0  |  0  |
+|  1  |  1  |  0  |
+
+# Tabela Verdade da Porta XOR
+
+|  A  |  B  |  S  |
+|-----|-----|-----|
+|  0  |  0  |  0  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  0  |
 
 
 ## Exercícios
