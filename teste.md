@@ -27,9 +27,7 @@ description: Grupo 17
 <img align="left" width="100" height="100" src="https://picsum.photos/100/100">
 
 This is the code you need to align images to the left:
-```
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
-```
+
 
 ---
 ## Exercícios
