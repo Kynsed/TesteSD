@@ -176,7 +176,9 @@ Questão 3 - Fazer
 
 </details>
 
-
+<br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
 
 :::note TODO
 
