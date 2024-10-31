@@ -25,11 +25,16 @@ description: Grupo 17
 ### `left` alignment
 
 <img align="left" width="100" height="100" src="https://picsum.photos/100/100">
-
+<table>
+    <tr><th>A</th><th>B</th><th>S</th></tr>
+    <tr><td>0</td><td>0</td><td>0</td></tr>
+    <tr><td>0</td><td>1</td><td>0</td></tr>
+    <tr><td>1</td><td>0</td><td>0</td></tr>
+    <tr><td>1</td><td>1</td><td>1</td></tr>
+</table>
 This is the code you need to align images to the left:
 
 
----
 ## Exercícios
 
 :::note TODO
