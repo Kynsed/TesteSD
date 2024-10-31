@@ -141,7 +141,7 @@ Questão 1 -
     
 <br clear="left"/>
 
-> [!IMPORTANT]  
+> 
 > Tudo negado.
     
 <br clear="left"/>
