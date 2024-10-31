@@ -22,7 +22,7 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
     </div>
 </div>
 
-
+<br clear="left"/>
 
 ## Porta AND
 
@@ -40,7 +40,7 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
     </div>
 </div>
 
-
+<br clear="left"/>
 
 ## Exercícios
 
