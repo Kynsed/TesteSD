@@ -76,6 +76,7 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 </div>
 
 <br clear="left"/>
+<br clear="left"/>
 
 ## Porta NOR
 
