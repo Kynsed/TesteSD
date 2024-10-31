@@ -77,6 +77,8 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 
 <br clear="left"/>
 <br clear="left"/>
+<br clear="left"/>
+
 
 ## Porta NOR
 
@@ -113,8 +115,15 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 
 <br clear="left"/>
 
-## Exercícios
 
+## Exercícios
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+<details>
+<summary>"Gabarito"</summary>
+this is hidden
+</details>
 
 :::note TODO
 
