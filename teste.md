@@ -18,7 +18,7 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
     </div>
     </div>
     <div>
-        <p>A porta NOT possui uma entrada, A, e uma saída, Q, como mostra a Figura (inserir figura). A saída da porta NOT é o inverso de sua entrada: se A é FALSO, Q é VERDADEIRO; se A é VERDADEIRO, Q é FALSO. Essa relação é mostrada na tabela-verdade e pela equação booleana na figura. A linha sobre A na equação booleana é pronunciada como NOT, sendo lido como "Q é igual a NÃO A". A porta NOT também é chamada de inversora. Outras notações para NOT incluem Q = ¬A, Q = ~A, e Q = !A. </p>
+    <p>A porta NOT possui uma entrada, A, e uma saída, Q, como mostra a Figura (inserir figura). A saída da porta NOT é o inverso de sua entrada: se A é FALSO, Q é VERDADEIRO; se A é VERDADEIRO, Q é FALSO. Essa relação é mostrada na tabela-verdade e pela equação booleana na figura. A linha sobre A na equação booleana é pronunciada como NOT, sendo lido como "Q é igual a NÃO A". A porta NOT também é chamada de inversora. Outras notações para NOT incluem Q = ¬A, Q = ~A, e Q = !A. </p>
     </div>
 </div>
 
