@@ -139,6 +139,11 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
     <img width="420" height="250" src="https://github.com/user-attachments/assets/f6075e48-ac75-4559-834f-054e70a5c648">
 </p>
 
+> 
+> Exercício 3 - Faça uma operação de OR com uma entrada de 8 bits.
+
+<br clear="left"/>
+<br clear="left"/>
 
 <details>
 <summary>Gabarito</summary>
@@ -164,6 +169,11 @@ Questão 2 -
 |  1  |  0  |  1  |  1  |
 |  1  |  1  |  0  |  1  |
 |  1  |  1  |  1  |  1  |
+
+<br clear="left"/>
+
+Questão 3 - Fazer
+
 </details>
 
 
