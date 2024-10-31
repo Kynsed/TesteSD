@@ -117,9 +117,10 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 
 ## Exercícios
 
-<p style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a044d985-9164-470a-af10-7f9ff836c3d0" alt="WhatsApp Image" width="200">
+<p align="center">
+    <img width="460" height="300" src="https://github.com/user-attachments/assets/a044d985-9164-470a-af10-7f9ff836c3d0">
 </p>
+
 
 1- Determine a expressão do circuito lógico acima.
 
