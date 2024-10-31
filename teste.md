@@ -42,6 +42,23 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 
 <br clear="left"/>
 
+## Porta NAND
+
+<div style="display: flex;">
+    <div style="margin-right: 20px;">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/8a3d64cb-baf6-49c2-a6e8-728d72b53516">
+    </div>
+    <div style="margin-right: 20px;">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/2d8e397b-7fbf-41ec-9a5d-6a122333abc2">
+    </div>
+    </div>
+    <div>
+    <p> Resumo NAND aqui </p>
+    </div>
+</div>
+
+<br clear="left"/>
+
 ## Exercícios
 
 
