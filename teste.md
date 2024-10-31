@@ -117,8 +117,10 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 
 
 ## Exercícios
-> [!CAUTION]
-> Negative potential consequences of an action.
+<div style="background-color: #ffeb3b; border: 1px solid #fbc02d; padding: 10px; border-radius: 5px;">
+   pirme wurui
+</div>
+
 
 <details>
 <summary>"Gabarito"</summary>
