@@ -71,7 +71,42 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
         </div>
     </div>
     <div>
-        <p>A porta OR, ilustrada na Figura (inserir figura), gera uma saída VERDADEIRA, Q, se A, B ou ambos forem VERDADEIROS. A equação booleana para OR é Y = A ∪ B. O símbolo ∪ é lido como "união", e a expressão Q = A + B significa "Q é igual a A ou B".</p>
+        <p>A porta OR, ilustrada na Figura, gera uma saída VERDADEIRA, Q, se A, B ou ambos forem VERDADEIROS. A equação booleana para OR é Y = A ∪ B. O símbolo ∪ é lido como "união", e a expressão Q = A + B significa "Q é igual a A ou B".</p>
+    </div>
+</div>
+
+<br clear="left"/>
+
+## Porta NOR
+
+<div style="display: flex;">
+    <div style="margin-right: 20px;">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/c4215294-52f0-4759-9ce7-8199a0f4b863">
+    </div>
+    <div style="margin-right: 20px;">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/ab0b771d-d45a-4610-ab13-ff2dab410724">
+    </div>
+    </div>
+    <div>
+    <p> Resumo NOR aqui </p>
+    </div>
+</div>
+
+<br clear="left"/>
+
+## Porta XOR
+
+<div style="display: flex;">
+    <div style="margin-left: 20px;">
+        <div> 
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/ff1d6394-ff04-4fa9-a5ef-ab283f93f709">
+        </div>
+        <div> 
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/64b39611-4078-4453-8d46-58b382f09717">
+        </div>
+    </div>
+    <div>
+        <p>A porta XOR (ou exclusiva, lida como "ex-OR") resulta em VERDADEIRO se A ou B, mas não ambos, forem VERDADEIROS. Qualquer porta pode ter uma inversão (bola) para inverter sua operação. A porta NAND realiza a operação NOT AND, sendo VERDADEIRA a menos que ambas as entradas sejam VERDADEIRAS. A porta NOR realiza a operação NOT OR, sendo VERDADEIRA se nem A nem B forem VERDADEIROS.</p>
     </div>
 </div>
 
@@ -80,7 +115,7 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 ## Exercícios
 
 
-
 :::note TODO
+
 Grupo 17
 :::
