@@ -4,13 +4,14 @@ description: Grupo 17
 ---
 
 # Circuítos para Operações Lógicas
-# Circuítos para Operações Lógicas
+### O são portas lógicas?
+Portas lógicas são circuitos digitais básicos que recebem uma ou mais entradas binárias e geram uma saída binária. Esses circuitos são representados por símbolos com entradas (ou entrada) e saída indicadas. Normalmente, as entradas aparecem à esquerda (ou no topo) e as saídas à direita (ou na parte inferior). Designers digitais geralmente usam letras do início do alfabeto para as entradas e a letra Q para a saída. A relação entre entradas e saídas pode ser representada por uma tabela-verdade ou uma equação booleana. A tabela-verdade mostra as entradas à esquerda e as saídas correspondentes à direita, com uma linha para cada combinação de entradas. Já a equação booleana é uma expressão matemática usando variáveis binárias. Vejamos as principais portas lógicas:
 
 ## Porta AND
 
 <div style="display: flex;">
     <div style="margin-right: 20px;">
-        <img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+        <img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/61362703-a2e5-4e71-b87b-4756670b1ce8">
     </div>
     <div style="margin-right: 20px;">
         <img align="left" width="100" height="100" src="https://picsum.photos/100/101">
@@ -20,29 +21,9 @@ description: Grupo 17
     </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <table border="1" style="margin-top: 10px;">
-        <tr><th>A</th><th>B</th><th>S</th></tr>
-        <tr><td>0</td><td>0</td><td>0</td></tr>
-        <tr><td>0</td><td>1</td><td>0</td></tr>
-        <tr><td>1</td><td>0</td><td>0</td></tr>
-        <tr><td>1</td><td>1</td><td>1</td></tr>
-    </table>
-</div>
-
 ---
 
 ## Exercícios
-/div>
-
----
-
-## Exercícios
-
-## Exercícios
-
-
-
 
 :::note TODO
 Grupo 17
