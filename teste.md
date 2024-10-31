@@ -138,8 +138,14 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 <summary>Gabarito</summary>
 Questão 1 -
 |((A.B) . (C+D)) 
+    
+<br clear="left"/>
+
 > [!IMPORTANT]  
 > Tudo negado.
+    
+<br clear="left"/>
+
 Questão 2 - 
 
 |  A  |  B  |  C  |  S  |
