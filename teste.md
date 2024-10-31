@@ -20,17 +20,18 @@ description: Grupo 17
 </div>
 ## Advanced Formatting tips
 
-### `Porta AND
+## Advanced Formatting tips
 
-<img src="https://github.com/user-attachments/assets/61362703-a2e5-4e71-b87b-4756670b1ce8" alt="and" style="width: 100px;"/>
+### `left` alignment
+
+<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
 
 This is the code you need to align images to the left:
 ```
-<img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/61362703-a2e5-4e71-b87b-4756670b1ce8">
+<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
 ```
 
 ---
-
 ## Exercícios
 
 :::note TODO
