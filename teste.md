@@ -18,6 +18,18 @@ description: Grupo 17
     </div>
     <p>Este é o texto que ficará ao lado direito da imagem e da tabela. Você pode adicionar mais informações aqui para acompanhar as imagens.</p>
 </div>
+## Advanced Formatting tips
+
+### `left` alignment
+
+<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+
+This is the code you need to align images to the left:
+```
+<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+```
+
+---
 
 ## Exercícios
 
