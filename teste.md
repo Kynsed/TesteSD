@@ -22,7 +22,12 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 </div>
 
 ---
-
+| A | B | Q (A AND B) |
+|---|---|-------------|
+| 0 | 0 |      0      |
+| 0 | 1 |      0      |
+| 1 | 0 |      0      |
+| 1 | 1 |      1      |
 ## Exercícios
 
 :::note TODO
