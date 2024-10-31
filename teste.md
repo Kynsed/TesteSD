@@ -10,7 +10,6 @@ description: Grupo 17
 ### Left alignment
 
 ### Left alignment
-
 <div style="display: flex; align-items: flex-start;">
     <div style="margin-right: 20px; display: flex; flex-direction: column; align-items: flex-start;">
         <img width="100" height="100" src="https://github.com/user-attachments/assets/61362703-a2e5-4e71-b87b-4756670b1ce8" alt="and">
@@ -28,6 +27,7 @@ description: Grupo 17
         <p>Continuando com mais texto para ver como o layout se comporta. A ideia é manter a imagem e a tabela no mesmo nível que o texto.</p>
     </div>
 </div>
+
 
 ## Exercícios
 
