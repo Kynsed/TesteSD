@@ -22,17 +22,12 @@ description: Grupo 17
 
 ## Advanced Formatting tips
 
-### `left` alignment
+### Left alignment
 
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
-<table>
-    <tr><th>A</th><th>B</th><th>S</th></tr>
-    <tr><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>0</td><td>1</td><td>0</td></tr>
-    <tr><td>1</td><td>0</td><td>0</td></tr>
-    <tr><td>1</td><td>1</td><td>1</td></tr>
-</table>
-This is the code you need to align images to the left:
+<img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/61362703-a2e5-4e71-b87b-4756670b1ce8" alt="and">
+
+This is the code you need to align images to the left. You can add additional text here to test the alignment alongside the image. The image should remain on the left while this text wraps around it.
+
 
 
 ## Exercícios
