@@ -23,7 +23,7 @@ description: Grupo 17
 
 This is the code you need to align images to the left. You can add additional text here to test the alignment alongside the image and table. The image and table will stay on the left, while this text wraps around them on the right.
 
-
+<div style="clear: left;"></div>
 
 
 ## Exercícios
