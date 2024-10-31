@@ -117,8 +117,9 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 
 
 ## Exercícios
-> [!NOTE]
-> Texto na caixinha colorida sem a palavra "CAUTION".
+<div style="border: 1px solid #FFA500; padding: 10px; background-color: #FFF8DC;">
+    <strong>Exercícios</strong>: Aqui você pode listar os exercícios e atividades relacionados ao conteúdo.
+</div>
 
 
 
