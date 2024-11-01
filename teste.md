@@ -10,7 +10,7 @@ Portas lógicas são circuitos digitais básicos que recebem uma ou mais entrada
 ## Porta NOT
 
 <div style="display: flex;">
-         1- Título da Imagem 1   1- Título da Imagem 1
+         Imagem 1 - Porta AND   Imagem 2- Tabela Verdade AND
     <div style="margin-right: 20px;">
         <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/49b0cd00-3690-4f6d-98fb-3c7f480db75a">
     </div>
