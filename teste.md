@@ -131,6 +131,8 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <br clear="left"/>
 <br clear="left"/>
 <br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
 
 ## Operações com mais bits de entrada
 Podemos fazer operacões usando as portas lógicas, como por exemplo, uma AND com 8 bits.
