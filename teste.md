@@ -62,8 +62,11 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 </div>
 
 <br clear="left"/>
-> [!TIP]
-> Optional information to help a user be more successful.
+<br clear="left"/>
+
+> 💡 **Dica:** Informação opcional para ajudar o usuário a ter mais sucesso.
+
+<br clear="left"/>
 <br clear="left"/>
 
 ## Porta OR
@@ -119,6 +122,9 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
         <p>A porta XOR (ou exclusiva, lida como "ex-OR") resulta em S VERDADEIRO, se A ou B, mas não ambos, forem VERDADEIROS.</p>
     </div>
 </div>
+<br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
 <br clear="left"/>
 <br clear="left"/>
 
