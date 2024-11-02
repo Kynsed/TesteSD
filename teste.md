@@ -58,11 +58,12 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
     </div>
     <div>
     <p> Qualquer porta pode ter uma inversão (bola) para inverter sua operação. A porta NAND realiza a operação NOT AND, sendo VERDADEIRA a menos que ambas as entradas sejam VERDADEIRAS, ou seja, ela é o inverso da porta AND. </p>
-> [!TIP]
-> Optional information to help a user be more successful.
     </div>
 </div>
 
+<br clear="left"/>
+> [!TIP]
+> Optional information to help a user be more successful.
 <br clear="left"/>
 
 ## Porta OR
@@ -118,7 +119,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
         <p>A porta XOR (ou exclusiva, lida como "ex-OR") resulta em S VERDADEIRO, se A ou B, mas não ambos, forem VERDADEIROS.</p>
     </div>
 </div>
-
+<br clear="left"/>
 <br clear="left"/>
 
 ## Exercícios
