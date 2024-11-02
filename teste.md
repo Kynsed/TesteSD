@@ -132,6 +132,32 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <br clear="left"/>
 <br clear="left"/>
 
+## Operações com mais bits de entrada
+Podemos fazer operacões usando as portas lógicas, como por exemplo, uma AND com 8 bits.
+<br clear="left"/>
+Considere as seguintes entradas: A = 00110001 e B = 01101101.
+<br clear="left"/>
+Olhando cada bit da entrada A, par a par, com a entrada B podemos realizar a opereção:
+<br clear="left"/>
+⚠️ **Atenção:** Compare os bits que estão na mesma posição em ambas as entradas
+<br clear="left"/>
+<br clear="left"/>
+✅ **Dica:** Lembre-se que • significa a opereção AND
+<br clear="left"/>
+0•0 = 0
+0•1 = 0
+1•1 = 1
+1•0 = 0
+0•1 = 0
+0•1 = 0
+0•0 = 0
+1•1 = 1
+Assim, combinando os resultados obtemos: 
+🔍 **Resultado:** 00100001
+
+<br clear="left"/>
+<br clear="left"/>
+
 ## Exercícios
 
 <br clear="left"/>
