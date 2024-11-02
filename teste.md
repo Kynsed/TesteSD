@@ -88,7 +88,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 
 <div style="display: flex;">
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/c4215294-52f0-4759-9ce7-8199a0f4b863">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/907e24f1-f8fa-44ea-9da3-902aa58786a3">
     </div>
     <div style="margin-right: 20px;">
         <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/ab0b771d-d45a-4610-ab13-ff2dab410724">
@@ -106,7 +106,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <div style="display: flex;">
     <div style="margin-left: 20px;">
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/ff1d6394-ff04-4fa9-a5ef-ab283f93f709">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/955fd231-effe-4983-bbf9-0edb53df2c5a">
         </div>
         <div> 
              <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/64b39611-4078-4453-8d46-58b382f09717">
