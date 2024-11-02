@@ -64,10 +64,10 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <br clear="left"/>
 <br clear="left"/>
 
-> 💡 **Dica:** Informação opcional para ajudar o usuário a ter mais sucesso.
+> 💡 **Dica:** Compare a tabela verdade da porta AND com a tabela verdade da NAND
 
 <br clear="left"/>
-<br clear="left"/>
+
 
 ## Porta OR
 
@@ -104,6 +104,10 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
     <p> Segue a mesma lógica da porta NAND, sendo o inverso da porta OR, a porta NOR realiza a operação NOT OR, sendo VERDADEIRA se nem A e nem B forem VERDADEIROS. </p>
     </div>
 </div>
+<br clear="left"/>
+<br clear="left"/>
+
+> 💡 **Dica:** Compare a tabela verdade da porta OR com a tabela verdade da NOR
 
 <br clear="left"/>
 
