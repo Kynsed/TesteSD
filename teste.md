@@ -57,7 +57,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
     </div>
     </div>
     <div>
-    <p> Qualquer porta pode ter uma inversão (bola) para inverter sua operação. A porta NAND realiza a operação NOT AND, sendo VERDADEIRA a menos que ambas as entradas sejam VERDADEIRAS, ou seja, ela é o inverso da porta AND. </p>
+    <p> Qualquer porta pode ter uma inversão (bola) para inverter sua operação. A porta NAND realiza a operação NOT AND, sendo FALSA a menos que ambas as entradas sejam VERDADEIRAS, ou seja, ela é o inverso da porta AND. </p>
     </div>
 </div>
 
