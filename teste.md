@@ -5,7 +5,7 @@ description: Grupo 17
 
 # Circuítos para Operações Lógicas
 ### O são portas lógicas?
-Portas lógicas são circuitos digitais básicos que recebem uma ou mais entradas binárias e geram uma saída binária. Esses circuitos são representados por símbolos com entradas (ou entrada) e saída indicadas. Normalmente, as entradas aparecem à esquerda (ou no topo) e as saídas à direita (ou na parte inferior). Designers digitais geralmente usam letras do início do alfabeto para as entradas e a letra Q ou S para a saída. A relação entre entradas e saídas pode ser representada por uma tabela-verdade ou uma equação booleana.
+Portas lógicas são circuitos digitais básicos que recebem uma ou mais entradas binárias e geram uma saída binária. Esses circuitos são representados por símbolos com entradas (ou entrada) e saída indicadas. Normalmente, as entradas aparecem à esquerda (ou no topo) e as saídas à direita (ou na parte inferior). Designers digitais geralmente usam letras do início do alfabeto para as entradas e a letra S ou Q para a saída. A relação entre entradas e saídas pode ser representada por uma tabela-verdade ou uma equação booleana.
 <br clear="left"/>
 A tabela-verdade mostra as entradas à esquerda e as saídas correspondentes à direita, com uma linha para cada combinação de entradas. Já a equação booleana é uma expressão matemática usando variáveis binárias. 
 <br clear="left"/>
@@ -34,7 +34,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 <div style="display: flex;">
     <div style="margin-left: 20px;">
         <div> 
-             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/61362703-a2e5-4e71-b87b-4756670b1ce8">
+             <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/c521a478-0e2e-4c83-ac30-622b710d6570">
         </div>
         <div> 
              <img align="right" width="230" height="230" src="https://github.com/user-attachments/assets/9841bc08-ed74-4bdb-b838-cbc684a3dd3a">
