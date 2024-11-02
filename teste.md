@@ -40,7 +40,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
         </div>
     </div>
     <div>
-        <p>A porta AND, mostrada na Figura, gera uma saída VERDADEIRA, Q, somente se ambas as entradas A e B forem VERDADEIROS; caso contrário, a saída é FALSA. A convenção para listar as entradas é 00, 01, 10, 11, como na contagem binária. A equação booleana para uma porta AND pode ser escrita como Q = A•B, Q = AB, ou Q = A ∩ B, com o símbolo ∩ sendo lido como "intersecção". Você também pode associar essa porta lógica com a operação usual de multiplicação, de maneira a facilitar sua compreensão acerca do resultado esperado na saída para diferentes entradas.</p>
+        <p>A porta AND, mostrada na Figura, gera uma saída VERDADEIRA S, somente se ambas as entradas A e B forem VERDADEIRAS; caso contrário, a saída é FALSA. A convenção para listar as entradas é 00, 01, 10, 11, como na contagem binária. A equação booleana para uma porta AND pode ser escrita como S = A•B, S = AB, ou S = A ∩ B, com o símbolo ∩ sendo lido como "intersecção". Você também pode associar essa porta lógica com a operação usual de multiplicação, de maneira a facilitar sua compreensão acerca do resultado esperado na saída para diferentes entradas.</p>
     </div>
 </div>
 
@@ -57,7 +57,9 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
     </div>
     </div>
     <div>
-    <p> Resumo NAND aqui </p>
+    <p> Qualquer porta pode ter uma inversão (bola) para inverter sua operação. A porta NAND realiza a operação NOT AND, sendo VERDADEIRA a menos que ambas as entradas sejam VERDADEIRAS, ou seja, ela é o inverso da porta AND. </p>
+> [!TIP]
+> Optional information to help a user be more successful.
     </div>
 </div>
 
@@ -75,7 +77,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
         </div>
     </div>
     <div>
-        <p>A porta OR, ilustrada na Figura, gera uma saída VERDADEIRA, Q, se A, B ou ambos forem VERDADEIROS. A equação booleana para OR é Y = A ∪ B. O símbolo ∪ é lido como "união", e a expressão Q = A + B significa "Q é igual a A ou B".</p>
+        <p>A porta OR, ilustrada na Figura, gera uma saída VERDADEIRA S, se A, B ou ambos forem VERDADEIROS. A equação booleana para OR é S = A ∪ B. O símbolo ∪ é lido como "união", e a expressão S = A + B significa "S é igual a A ou B".</p>
     </div>
 </div>
 
@@ -95,7 +97,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
     </div>
     </div>
     <div>
-    <p> Resumo NOR aqui </p>
+    <p> Segue a mesma lógica da porta NAND, sendo o inverso da porta OR, a porta NOR realiza a operação NOT OR, sendo VERDADEIRA se nem A e nem B forem VERDADEIROS. </p>
     </div>
 </div>
 
@@ -113,7 +115,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
         </div>
     </div>
     <div>
-        <p>A porta XOR (ou exclusiva, lida como "ex-OR") resulta em VERDADEIRO se A ou B, mas não ambos, forem VERDADEIROS. Qualquer porta pode ter uma inversão (bola) para inverter sua operação. A porta NAND realiza a operação NOT AND, sendo VERDADEIRA a menos que ambas as entradas sejam VERDADEIRAS. A porta NOR realiza a operação NOT OR, sendo VERDADEIRA se nem A nem B forem VERDADEIROS.</p>
+        <p>A porta XOR (ou exclusiva, lida como "ex-OR") resulta em S VERDADEIRO, se A ou B, mas não ambos, forem VERDADEIROS.</p>
     </div>
 </div>
 
