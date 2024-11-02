@@ -7,9 +7,7 @@ description: Grupo 17
 ### O são portas lógicas?
 Portas lógicas são circuitos digitais básicos que recebem uma ou mais entradas binárias e geram uma saída binária. Esses circuitos são representados por símbolos com entradas (ou entrada) e saída indicadas. Normalmente, as entradas aparecem à esquerda (ou no topo) e as saídas à direita (ou na parte inferior). Designers digitais geralmente usam letras do início do alfabeto para as entradas e a letra Q ou S para a saída. A relação entre entradas e saídas pode ser representada por uma tabela-verdade ou uma equação booleana.
 <br clear="left"/>
-A tabela-verdade mostra as entradas à esquerda e as saídas correspondentes à direita, com uma linha para cada combinação de entradas. 
-<br clear="left"/>
-Já a equação booleana é uma expressão matemática usando variáveis binárias. 
+A tabela-verdade mostra as entradas à esquerda e as saídas correspondentes à direita, com uma linha para cada combinação de entradas. Já a equação booleana é uma expressão matemática usando variáveis binárias. 
 <br clear="left"/>
 Vejamos as principais portas lógicas e suas tabelas verdade:
 <br clear="left"/>
@@ -25,7 +23,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
     </div>
     </div>
     <div>
-    <p>A porta NOT possui uma entrada, A, e uma saída, Q, como mostra a Figura (inserir figura). A saída da porta NOT é o inverso de sua entrada: se A é FALSO, Q é VERDADEIRO; se A é VERDADEIRO, Q é FALSO. Essa relação é mostrada na tabela-verdade e pela equação booleana na figura. A linha sobre A na equação booleana é pronunciada como NOT, sendo lido como "Q é igual a NÃO A". A porta NOT também é chamada de inversora. Outras notações para NOT incluem Q = ¬A, Q = ~A, e Q = !A. </p>
+    <p>A porta NOT possui uma entrada A, e uma saída S, como mostra a Figura. A saída da porta NOT é o inverso de sua entrada, exemplo: se A é FALSO (0), S é VERDADEIRO (1); se A é VERDADEIRO, S é FALSO. Essa relação é mostrada na tabela-verdade e pela equação booleana na figura. A linha sobre A na equação booleana é pronunciada como NOT, sendo lido como "S é igual a NÃO A". A porta NOT também é chamada de inversora. Outras notações para NOT incluem S = ¬A, S = ~A, e S = !A. </p>
     </div>
 </div>
 
