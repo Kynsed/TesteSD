@@ -140,22 +140,23 @@ Considere as seguintes entradas: A = 00110001 e B = 01101101.
 Olhando cada bit da entrada A, par a par, com a entrada B podemos realizar a opereção:
 <br clear="left"/>
 <br clear="left"/>
-<br clear="left"/>
 ⚠️ **Atenção:** Compare os bits que estão na mesma posição em ambas as entradas
 <br clear="left"/>
 <br clear="left"/>
 ✅ **Dica:** Lembre-se que • significa a opereção AND
 <br clear="left"/>
-0•0 = 0
-0•1 = 0
-1•1 = 1
-1•0 = 0
-0•1 = 0
-0•1 = 0
-0•0 = 0
-1•1 = 1
-Assim, combinando os resultados obtemos:
 <br clear="left"/>
+0•0 = 0 <br clear="left"/>
+0•1 = 0 <br clear="left"/>
+1•1 = 1 <br clear="left"/>
+1•0 = 0 <br clear="left"/>
+0•1 = 0 <br clear="left"/>
+0•1 = 0 <br clear="left"/>
+0•0 = 0 <br clear="left"/>
+1•1 = 1 <br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
+Assim, combinando os resultados obtemos:
 <br clear="left"/>
 🔍 **Resultado:** 00100001
 
