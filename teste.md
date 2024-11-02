@@ -139,6 +139,8 @@ Considere as seguintes entradas: A = 00110001 e B = 01101101.
 <br clear="left"/>
 Olhando cada bit da entrada A, par a par, com a entrada B podemos realizar a opereção:
 <br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
 ⚠️ **Atenção:** Compare os bits que estão na mesma posição em ambas as entradas
 <br clear="left"/>
 <br clear="left"/>
@@ -152,7 +154,9 @@ Olhando cada bit da entrada A, par a par, com a entrada B podemos realizar a ope
 0•1 = 0
 0•0 = 0
 1•1 = 1
-Assim, combinando os resultados obtemos: 
+Assim, combinando os resultados obtemos:
+<br clear="left"/>
+<br clear="left"/>
 🔍 **Resultado:** 00100001
 
 <br clear="left"/>
