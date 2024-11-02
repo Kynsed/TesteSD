@@ -155,12 +155,9 @@ Olhando cada bit da entrada A, par a par, com a entrada B podemos realizar a ope
 0•0 = 0 <br clear="left"/>
 1•1 = 1 <br clear="left"/>
 <br clear="left"/>
-<br clear="left"/>
 Assim, combinando os resultados obtemos:
 <br clear="left"/>
 🔍 **Resultado:** 00100001
-
-<br clear="left"/>
 <br clear="left"/>
 
 ## Exercícios
@@ -188,7 +185,13 @@ Assim, combinando os resultados obtemos:
 </p>
 
 > 
-> Exercício 3 - Faça uma operação de OR com uma entrada de 8 bits.
+> Exercício 3 - Faça uma operação de OR com as entradas A = 01111101 e B = 01000100
+
+<br clear="left"/>
+<br clear="left"/>
+
+> 
+> 4- Faça a operação XOR com as entradas A = 00011101 e B = 11011100
 
 <br clear="left"/>
 <br clear="left"/>
@@ -220,7 +223,15 @@ Questão 2 -
 
 <br clear="left"/>
 
-Questão 3 - Fazer
+Questão 3 - 
+01111101
+
+<br clear="left"/>
+
+Questão 4 - 
+11000001
+
+<br clear="left"/>
 
 </details>
 
