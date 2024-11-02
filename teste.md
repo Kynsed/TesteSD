@@ -51,7 +51,7 @@ Vejamos as principais portas lógicas e suas tabelas verdade:
 
 <div style="display: flex;">
     <div style="margin-right: 20px;">
-        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/8a3d64cb-baf6-49c2-a6e8-728d72b53516">
+        <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/81480ce5-5ec4-477f-a386-fff78f995a68">
     </div>
     <div style="margin-right: 20px;">
         <img align="left" width="230" height="230" src="https://github.com/user-attachments/assets/2d8e397b-7fbf-41ec-9a5d-6a122333abc2">
