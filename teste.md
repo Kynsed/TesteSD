@@ -1,6 +1,6 @@
 ---
 title: Circuítos para Operações Lógicas
-description: Grupo 17
+description: Grupo 17 
 ---
 
 ### O são portas lógicas?
