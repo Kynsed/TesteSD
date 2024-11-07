@@ -183,8 +183,9 @@ Assim, combinando os resultados obtemos:
 <br clear="left"/>
 
 <p align="center">
-    <img width="420" height="250" src="https://github.com/user-attachments/assets/f6075e48-ac75-4559-834f-054e70a5c648">
+    <img width="420" height="250" src="https://github.com/user-attachments/assets/df280a78-33f3-4dd1-b071-7c59becfe32d">
 </p>
+
 
 > 
 > Exercício 3 - Faça uma operação de OR com as entradas A = 01111101 e B = 01000100
